@@ -14,7 +14,7 @@ humantime: "9:00am - 3:00pm"    # human-readable times for the workshop e.g., "9
 startdate: 2026-03-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2026-03-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Allie Tatarian", "Paige Scudder"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Sarah Corvene", "Annie Colby-McKeon", "Elizabeth McCall", "Rachel Partington", "Anna Milyaeva"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Annie Colby-McKeon", "Sarah Corvene", "Elizabeth McCall", "Anna Milyaeva", "Rachel Partington"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["allie.tatarian@tufts.edu","paige.scudder@tufts.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like [ "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2026-03-04-tufts-online  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
